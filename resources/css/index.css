@@ -1,17 +1,20 @@
 * {
     box-sizing: border-box;
     margin: 0;
-    background-color: black;
-    font-family: Verdana;
+
 
 }
 
+body {
+    background-color: black;
+    font-family: Verdana;
+    text-align: center;
+}
+
 .titlediv {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+ 
     height: 20vh;
-    flex-direction: column;
+  
 }
 
 .title {
@@ -25,3 +28,4 @@
     margin-top: 30px;
     text-decoration: underline;
 }
+
