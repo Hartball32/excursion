@@ -29,3 +29,21 @@ body {
     text-decoration: underline;
 }
 
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+    margin-top: 30px;
+}
+
+h3 {
+    font-size: 21px;
+    color: gray;
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+}
+
+.phoneimg {
+    margin-top: 30px;
+}
